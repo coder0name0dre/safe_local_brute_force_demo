@@ -7,8 +7,13 @@ This project is designed for local ethical experiments only.
 
 ---
 
-.
-├── login_app.py       # Basic local "login" system (mock authentication)
-├── bruteforce.py      # Safe brute-force tester using the wordlist
-├── wordlist.txt       # List of password guesses
-└── README.md          # Documentation (you are here!)
+## How It Works
+
+- `login_app.py` contains a simple passsword check function (`check()`).
+- `bruteforce.py` imports the `check()` function and tries multiple passwords from a wordlist (`wordlist.txt`).
+- The test runs **locally only** - no network communication or external access.
+- This simulates how attackers use brute-force/dictionary attacks.
+- Includes safety features like delay and optional max attempts.
+
+---
+
