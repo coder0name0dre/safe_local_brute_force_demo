@@ -71,3 +71,27 @@ python login_app.py
 
 ---
 
+## Learning Outcomes
+
+By using this project, you will learn:
+- How brute-force and dictionary attacks work
+- Importance of strong passwords
+- Role of delay, lockout, and security mechanisms
+- Why authentication systems should **never** store plain-text passwords
+- How to perform ethical cybersecurity testing
+
+---
+
+## Legal Disclaimer
+
+**You must NOT use this code to attack real systems, accounts, devices, websites, or networks. Doing so is illegal and unethical. Use only in controlled environments you own.**
+
+---
+
+## Contributing
+
+Contributions, imporovements, and educational extensions are welcome!
+Just ensure all additions remain **ethical and safe.**
+
+---
+
