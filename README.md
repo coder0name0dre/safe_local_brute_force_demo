@@ -90,8 +90,10 @@ By using this project, you will learn:
 
 ## Contributing
 
-Contributions, imporovements, and educational extensions are welcome!
-Just ensure all additions remain **ethical and safe.**
+Contributions, imporovements, and educational extensions are welcome! Just ensure all additions remain **ethical and safe.**
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/dre86dre/safe_local_brute_force_demo/blob/main/LICENSE).
